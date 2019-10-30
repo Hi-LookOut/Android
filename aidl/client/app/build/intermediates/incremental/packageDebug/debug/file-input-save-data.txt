@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Oct 30 18:17:41 CST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\android_project\\aidl2\\client\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
